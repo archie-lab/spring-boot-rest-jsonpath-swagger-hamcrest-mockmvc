@@ -1,1 +1,1 @@
-= Spring Boot with RESTful, JPA, SWAGGER example
+= Spring Boot with RESTful, JPA, Swagger, Hamcrest, MockMvc example
